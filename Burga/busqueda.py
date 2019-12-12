@@ -1,0 +1,102 @@
+#EJERCICIO1
+#              1         2          3
+#    01234567890123456789012345678901
+msj="MI NOMBRE ES ARIANA, MUCHO GUSTO"
+print(msj.find("ARIANA"))
+
+
+#EJERCICIO2
+#              1         2         3
+#    01234567890123456789012345678901234567
+msj="ESTOY NERVIOSA POR EL EXAMEN DE MAÑANA"
+print(msj.find("EXAMEN"))
+
+
+#EJERCICIO3
+#              1         2         3
+#    0123456789012345678901234567890123
+msj="APROBAR PROGRMACION ME HARIA FELIZ"
+print(msj.index("F"))
+
+
+#EJERCICIO4
+#              1         2         3
+#    0123456789012345678901234567890123456789
+msj="FALTAN MENOS DE QUINCE DIAS PARA NAVIDAD"
+print(msj.index("Q"))
+
+
+#EJERCICIO5
+#              1         2
+#    01234567890123456789012345678
+msj="EL QUE MADRUGA, DIOS LE AYUDA"
+print(msj.index("L"))
+
+
+#EJERCICIO6
+#              1         2         3
+#    012345678901234567890123456789012345
+msj="LOS MAS BONITO DE MI VIDA ES TENERTE"
+print(msj.index("T"))
+
+
+#EJERCICIO7
+#              1         2         3
+#    012345678901234567890123456789012
+msj="MI PASION ES ESTUDIAR ELECTRONICA"
+print(msj.index("U"))
+
+
+#EJERCICIO8
+#              1         2
+#    012345678901234567890123456789
+msj="MI MEJOR REGALO ES VERTE FELIZ"
+print(msj.index("R"))
+
+
+#EJERCICIO9
+#              1         2         3         4
+#    012345678901234567890123456789012345678901
+msj="ME ENCANTA PASAR LA NAVIDAD CON MI FAMILIA"
+print(msj.index("P"))
+
+
+#EJERCICIO10
+#              1         2         3         4
+#    01234567890123456789012345678901234567890123456
+msj="ME GUSTA JUGAR A LOS VIDEOJUEGOS CON MIS AMIGOS"
+print(msj.index("J"))
+
+
+#EJERCICIO11
+#              1         2         3
+#    0123456789012345678901234567890123
+msj="MI COMIDA FAVORITA ES ARROZ CHAUFA"
+print(msj.index("R"))
+
+
+#EJERCICIO12
+#              1         2         3         3
+#    0123456789012345678901234567890123456789012345
+msj="QUIERO QUE ME AYUDES A ESTUDIAR PARA EL EXAMEN"
+print(msj.index("E"))
+
+
+#EJERCICIO13
+#              1         2         3         4
+#    0123456789012345678901234567890123456789012345678
+msj="ME ENCANTARIA ESTAR EN LA PLAYA EN ESTOS MOMENTOS"
+print(msj.index("P"))
+
+
+#EJERCICIO14
+#              1         2         3
+#    01234567890123456789012345678901234567
+msj="ME GUSTA MAS EL INVIERNO QUE EL VERANO"
+print(msj.index("V"))
+
+#EJERCICIO15
+#              1         2         3
+#    012345678901234567890123456789012
+msj="ME GUSTA EL OLOR QUE TIENE EL MAR"
+print(msj.index("O"))

@@ -1,0 +1,141 @@
+#EJERCICIO1
+#              1         2          3
+#    01234567890123456789012345678901
+msj="MI NOMBRE ES ARIANA, MUCHO GUSTO"
+print(msj,len(msj))
+
+
+#EJERCICIO2
+#              1         2         3
+#    01234567890123456789012345678901234567
+msj="ESTOY NERVIOSA POR EL EXAMEN DE MAÑANA"
+print(msj,len(msj))
+
+
+#EJERCICIO3
+#              1         2         3
+#    0123456789012345678901234567890123
+msj="APROBAR PROGRMACION ME HARIA FELIZ"
+print(msj,len(msj))
+
+
+#EJERCICIO4
+#              1         2         3
+#    0123456789012345678901234567890123456789
+msj="FALTAN MENOS DE QUINCE DIAS PARA NAVIDAD"
+print(msj,len(msj))
+
+
+#EJERCICIO5
+#              1         2
+#    01234567890123456789012345678
+msj="EL QUE MADRUGA, DIOS LE AYUDA"
+print(msj,len(msj))
+
+
+#EJERCICIO6
+#              1         2         3
+#    012345678901234567890123456789012345
+msj="LOS MAS BONITO DE MI VIDA ES TENERTE"
+print(msj,len(msj))
+
+
+#EJERCICIO7
+#              1         2         3
+#    012345678901234567890123456789012
+msj="MI PASION ES ESTUDIAR ELECTRONICA"
+print(msj,len(msj))
+
+
+#EJERCICIO8
+#              1         2
+#    012345678901234567890123456789
+msj="MI MEJOR REGALO ES VERTE FELIZ"
+print(msj,len(msj))
+
+
+#EJERCICIO9
+#              1         2         3         4
+#    012345678901234567890123456789012345678901
+msj="ME ENCANTA PASAR LA NAVIDAD CON MI FAMILIA"
+print(msj,len(msj))
+
+
+#EJERCICIO10
+#              1         2         3         4
+#    01234567890123456789012345678901234567890123456
+msj="ME GUSTA JUGAR A LOS VIDEOJUEGOS CON MIS AMIGOS"
+print(msj,len(msj))
+
+
+#EJERCICIO11
+#              1         2         3
+#    0123456789012345678901234567890123
+msj="MI COMIDA FAVORITA ES ARROZ CHAUFA"
+print(msj,len(msj))
+
+
+#EJERCICIO12
+#              1         2         3         3
+#    0123456789012345678901234567890123456789012345
+msj="QUIERO QUE ME AYUDES A ESTUDIAR PARA EL EXAMEN"
+print(msj,len(msj))
+
+
+#EJERCICIO13
+#              1         2         3         4
+#    0123456789012345678901234567890123456789012345678
+msj="ME ENCANTARIA ESTAR EN LA PLAYA EN ESTOS MOMENTOS"
+print(msj,len(msj))
+
+
+#EJERCICIO14
+#              1         2         3
+#    01234567890123456789012345678901234567
+msj="ME GUSTA MAS EL INVIERNO QUE EL VERANO"
+print(msj,len(msj))
+
+#EJERCICIO15
+#              1         2         3
+#    012345678901234567890123456789012
+msj="ME GUSTA EL OLOR QUE TIENE EL MAR"
+print(msj,len(msj))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
